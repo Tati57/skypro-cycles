@@ -1,1 +1,3 @@
-/skypro-cycles.iml
+*.iml
+/.idea/
+/out/
